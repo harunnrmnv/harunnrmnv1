@@ -1,11 +1,11 @@
 module.exports = {
 
-    token: "", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
-    guildID: "", //Kullanıcağın Sunucunun ID'si
-    voiceChannelID: "", // Ses Kanal ID'si
-    presence: "Beş Was Here", //Botun Durumu
-    footer: "Beş & Luppux", //Embedların Footer Yazısı
-    botOwners: ["928259219038302258"], //Bot Sahibinin ID'si
+    token: "MTM2NTc3OTQ1NjUzODcwNTk2MA.Gpd5uS.tTxW4FkzsY0oEGyAwXcdAf04Ri3RA6xXBx5nKE", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
+    guildID: "1044308006940200981", //Kullanıcağın Sunucunun ID'si
+    voiceChannelID: "1366331855359447050", // Ses Kanal ID'si
+    presence: "Harun Was Here", //Botun Durumu
+    footer: "Harun & Madd", //Embedların Footer Yazısı
+    botOwners: ["915273436379643974","879720373984313495"], //Bot Sahibinin ID'si
     prefix: ".", //Botun Prefix'i 
     manemoji: "♂️", //Erkek Emojisi
     womanemoji: "♀️", //Kadın Emojisi
@@ -19,23 +19,23 @@ module.exports = {
     supheliHesapIsim: "Şüpheli", //Şüpheli Hesapların Düzeltileceği İsim
     banGif: "https://cdn.discordapp.com/attachments/1102681495283433612/1102723534612082798/wallpaperflare.com_wallpaper_1.jpg",
     shipArkaplan: "https://cdn.discordapp.com/attachments/930486300639891466/1103290225750450196/pexels-eberhard-grossgasteiger-1421903.jpg",
-    selamVer:false, // Kayıt Olduktan Sonra Chat kanalında Butonla Selam Verme Sistemi
+    selamVer:Ture, // Kayıt Olduktan Sonra Chat kanalında Butonla Selam Verme Sistemi
 
 
     //Eğer Buraya Kadar Yaptıysan .setup Komudunu Kullanarak Botu Sunucuna Kurmaya Başla.
-    mongoURL: "", //MongoDB URL'niz
+    mongoURL: "mongodb+srv://harunwhyy:uLlZOGUSJQNZjHf2@harunnrmnv0.mar0iss.mongodb.net/", //MongoDB URL'niz
     topArkaplan: "https://cdn.discordapp.com/attachments/946826067174375494/1106207234783981678/pexels-eberhard-grossgasteiger-1421903.jpg", //Top Komutundaki Arkaplan Resmi (URL Şeklinde Girilicek) - Eğer Hata Verirse Bilinki URL'de Resim Yoktur,Başka Bir URL Deneyin. (⚠️ GIF,APNG Uzantılı Resimleri Desteklemez)
     taskSystem: false, // Görev Sisteminin Aktif Veya Deaktif Hale Getirir - true = Aktif / false = Deaktif
 
-    staffs: [""], // Yetkililerin Rol ID'leri ["55555","55555"] Şeklinde Girilir
+    staffs: ["1366135800818831481"], // Yetkililerin Rol ID'leri ["55555","55555"] Şeklinde Girilir
 
     parents: { // Kategorilerin ID'leri ["55555","55555"] Şeklinde Çoklu Girilebilir
-        publicParents: [""],
-        registerParents: [""],
-        solvingParents: [""],
-        privateParents: [""],
-        aloneParents: [""],
-        funParents: [""]
+        publicParents: ["1366136030843109436"],
+        registerParents: ["1366136017387520182"],
+        solvingParents: ["1366136063550292000"],
+        privateParents: ["1366136078528155708"],
+        aloneParents: ["1366136106910879915"],
+        funParents: ["1366136070512840744"]
     },
 
 
